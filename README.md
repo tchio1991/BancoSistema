@@ -1,2 +1,3 @@
 # BancoSistema
-Uma Simulação de caixão eletrônico dentro de um banco.
+Uma Simulação de caixa eletrônico dentro de um banco.
+Um codigo simples em C simples mais bastante interativo.
